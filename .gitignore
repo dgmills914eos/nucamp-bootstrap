@@ -3,4 +3,4 @@ package-lock.json
 .vs/
 vs
 ./.vs
-
+dist
